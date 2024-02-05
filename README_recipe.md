@@ -79,7 +79,6 @@ It returns access granted
 """
 check_age("2008-02-05") => "ACCESS GRANTED"
 
-_Encode each example as a test. You can add to the above list as you go._
 
 ## 4. Implement the Behaviour
 
